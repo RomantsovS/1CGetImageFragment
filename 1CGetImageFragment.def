@@ -1,4 +1,4 @@
-LIBRARY    "1CGetImageFragment.dll"
+LIBRARY    "1CGetImageFragmentAddIn.dll"
 
 EXPORTS
 GetClassObject

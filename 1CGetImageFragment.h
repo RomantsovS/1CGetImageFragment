@@ -1,10 +1,9 @@
 #ifndef __ADDINNATIVE_H__
 #define __ADDINNATIVE_H__
 
-#include <ComponentBase.h>
-#include "AddInDefBase.h"
-#include "IMemoryManager.h"
-
+#include "include/ComponentBase.h"
+#include "include/AddInDefBase.h"
+#include "include/IMemoryManager.h"
 
 enum FragmentPosition
 {
